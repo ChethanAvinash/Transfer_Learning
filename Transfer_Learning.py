@@ -108,5 +108,4 @@ plt.imshow(cimage)
 plt.show()
 print("Predicted by model:",pred)
 
-test_images("7.jpg")
 
